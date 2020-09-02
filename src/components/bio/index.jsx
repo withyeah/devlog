@@ -19,7 +19,7 @@ export const Bio = () => (
                 fixed={data.avatar.childImageSharp.fixed}
                 alt={author}
                 style={{
-                  borderRadius: `100%`,
+                  // borderRadius: `100%`,
                 }}
               />
               <div className="author-name">
