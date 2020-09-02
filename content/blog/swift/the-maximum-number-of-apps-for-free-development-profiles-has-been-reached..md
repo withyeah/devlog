@@ -1,6 +1,6 @@
 ---
 title: [Swift] The maximum number of apps for free development profiles has been reached.
-date: 2020-06-09 14:09:86
+date : 2020-06-09 14:09:86
 category: swift
 thumbnail: { thumbnailSrc }
 draft: false
