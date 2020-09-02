@@ -1,5 +1,5 @@
 ---
-title: "[swift] Auto Layout and Responsive UIs"
+title: "[Xcode] Auto Layout and Responsive UIs"
 date: 2020-06-10 11:09:76
 category: swift
 thumbnail: { thumbnailSrc }
