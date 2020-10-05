@@ -67,7 +67,7 @@ git checkout [브랜치명]  //새 브랜치로 이동
     ![3](https://user-images.githubusercontent.com/45819975/94395508-d9775580-019a-11eb-8b2b-ecd22f4c16c5.png)
 
     - `bugfix`가 `master`의 부모쪽에 있었기 때문에 간단히 `bugfix`를 `master`가 붙어있는 커밋으로 이동시킴
-    - 두 브랜치가 모두 저장소이 모든 작업내역을 포함하게 됨
+    - 두 브랜치가 모두 저장소의 모든 작업내역을 포함하게 됨
 
 <br>
 
