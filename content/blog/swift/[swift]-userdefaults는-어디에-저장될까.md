@@ -67,4 +67,14 @@ draft: false
 
 <br>
 
+---
+
+<br>
+
+Reference
+
+[Apple Developer Documentation on UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults)
+
+<br>
+
 <br>
