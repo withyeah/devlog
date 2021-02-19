@@ -8,8 +8,8 @@ module.exports = {
     twitter: ``, // Your Twitter account
     github: `withyeah`, // Your GitHub account
     medium: ``, // Your Medium account
-    facebook: `yerang.kim.1804`, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    facebook: ``, // Your Facebook account
+    linkedin: `yerang-kim`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
