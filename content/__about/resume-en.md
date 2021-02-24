@@ -4,6 +4,18 @@ date: 2019-1-27 16:21:13
 lang: 'en'
 ---
 
+<head>
+
+<meta property="og:title" content="Yerang Kim"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://yerang.kim/about"/>
+<meta property="og:description" content="about yerang.kim"/>
+<meta property="og:image" content="https://user-images.githubusercontent.com/45819975/108961652-ff0d7a00-76ba-11eb-8c36-6297eacda1a6.PNG"/>
+<!-- <meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="627" /> -->
+
+</head>
+
 # 👩‍💻 김예랑 Yerang Kim
 
 <div align="center">
