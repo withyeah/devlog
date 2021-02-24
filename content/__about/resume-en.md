@@ -62,22 +62,75 @@ lang: 'en'
 
 ### **<U>우울증 환자를 위한 무드 트래커, Desserts</U>**
 
-https://github.com/withyeah/angel_hack_desserts
+Github : https://github.com/weeside
 
-**dfdf** (2016.03. - 2016.08.)
+**기획, iOS**
 
-> 어드민, 유저 관리
+![desserts](https://user-images.githubusercontent.com/45819975/108950866-50f9d400-76aa-11eb-9669-2d9015db564b.png)
+
+> 해커톤 수상 4회
 >
-> 사내 외 커뮤니케이션
+> iOS, Spring Boot, AWS, Jira
+> 
+> Realm, Macaw, FSCalendar, SideMenu
+
+<br>
+
+### **<U>영화 추천 서비스, Popcorn Overflow</U>**
+
+Demo : https://popcornoverflow2.herokuapp.com/movies/
+
+Github : https://github.com/withyeah/PopcornOverflow
+
+**기획, 백엔드, 프론트엔드**
+
+![PopcornOverflow](https://user-images.githubusercontent.com/45819975/108952392-bb137880-76ac-11eb-9296-f3eb7e6645cf.png)
+
+> Vue.js, Django, Heroku
+> 
+> 크롤링, 유저 관리, 추천 서비스
+
 
 <br>
 
 ## 🥁 Achievements
 
+#### Angelhack Hackathon Global Series
+    - 1st Place : APAC Region
+    - 3rd Place : Global AWS Challenge
+
+<!-- <br>  -->
+
+#### 엔젤핵 해커톤 서울 시리즈
+    - AWS Challenge 우승
+    - Social Impact Award 수상 
+
+<!-- <br> -->
+
+#### Trilingual
+    🇬🇧English 
+        - TOEIC : 985
+        - OPIC : AL
+
+    🇯🇵日本語
+        - JLPT : N4
+
 <br>
 
+
 ## 🚥 Education
+
+**<U>[삼성 청년 소프트웨어 아카데미 1기](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)</U>** (2018.12. - 2019.07.)
+
+> 풀스택 웹 개발, 13개의 팀 프로젝트
+>
+> 알고리즘, 컴퓨팅 사고
+
 
 <br> 
 
 ## 🛠 Skills
+
+**<U>Python</U>** / **<U>Django</U>** / **<U>iOS</U>** / **<U>Swift</U>**
+
+**<U>AWS</U>** / **<U>Heroku</U>** / **<U>Jira</U>** / **<U>Git</U>**
