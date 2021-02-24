@@ -62,7 +62,7 @@ lang: 'en'
 
 ### **<U>우울증 환자를 위한 무드 트래커, Desserts</U>**
 
-Github : https://github.com/weeside
+<U>[[Github]](https://github.com/weeside)</U>
 
 **기획, iOS**
 
@@ -78,9 +78,8 @@ Github : https://github.com/weeside
 
 ### **<U>영화 추천 서비스, Popcorn Overflow</U>**
 
-Demo : https://popcornoverflow2.herokuapp.com/movies/
-
-Github : https://github.com/withyeah/PopcornOverflow
+<U>[[Demo]](https://popcornoverflow2.herokuapp.com/movies/)</U> / 
+<U>[[Github]](https://github.com/withyeah/PopcornOverflow)</U>
 
 **기획, 백엔드, 프론트엔드**
 
