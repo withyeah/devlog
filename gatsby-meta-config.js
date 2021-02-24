@@ -2,7 +2,7 @@ module.exports = {
   title: `yerang.kim`,
   description: `devlog run by yerang kim`,
   author: `Yerang Kim`,
-  introduction: `Python, iOS 개발자. Also known as Alex. 🇰🇷한국어 🇬🇧English 🇯🇵日本語`,
+  introduction: `Python, iOS 개발자. 🇰🇷한국어 🇬🇧English 🇯🇵日本語`,
   siteUrl: `https://yerang.kim`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -14,7 +14,7 @@ module.exports = {
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
+    disqusShortName: 'yerang-kim', // Your disqus-short-name. check disqus.com.
     utterances: 'withyeah/devlog', // Your repository for archive comment
   },
   configs: {
