@@ -14,6 +14,17 @@ import { Layout } from '../layout'
 import * as Dom from '../utils/dom'
 import * as EventManager from '../utils/event-manager'
 
+<head>
+
+  <meta property="og:title" content="Yerang Kim" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://yerang.kim" />
+  <meta property="og:description" content="devlog by yerang.kim" />
+  <meta property="og:image" content="https://user-images.githubusercontent.com/45819975/108961652-ff0d7a00-76ba-11eb-8c36-6297eacda1a6.PNG" />
+
+
+</head>
+
 const BASE_LINE = 80
 
 function getDistance(currentPos) {

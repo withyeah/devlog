@@ -6,6 +6,17 @@ import * as Lang from '../constants'
 
 import '../styles/resume.scss'
 
+<head>
+
+  <meta property="og:title" content="Yerang Kim" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://yerang.kim/about" />
+  <meta property="og:description" content="about yerang.kim" />
+  <meta property="og:image" content="https://user-images.githubusercontent.com/45819975/108961652-ff0d7a00-76ba-11eb-8c36-6297eacda1a6.PNG" />
+
+
+</head>
+
 export default ({ data }) => {
   const resumes = data.allMarkdownRemark.edges
 
