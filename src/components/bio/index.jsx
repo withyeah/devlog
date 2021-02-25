@@ -28,7 +28,8 @@ export const Bio = () => (
                   {/* <span>@{author}</span> */}
                   <span>ABOUT ME</span>
                 </Link>
-                <div className="author-introduction">{introduction}</div>
+                {/* <div className="author-introduction">{introduction}</div> */}
+                <div className="author-introduction">I write codes and words. <br></br> 제가 궁금하다면 ABOUT ME 버튼을 눌러보세요!</div>
                 <p className="author-socials">
                   {social.github && (
                     <a href={`https://github.com/${social.github}`}>GitHub</a>
