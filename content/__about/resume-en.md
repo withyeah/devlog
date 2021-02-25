@@ -3,18 +3,53 @@ title: 'about'
 date: 2019-1-27 16:21:13
 lang: 'en'
 ---
+<link href="style.css" rel="stylesheet"></link>
+
+<head>
+
+  <meta property="og:title" content="Yerang Kim" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://yerang.kim/about" />
+  <meta property="og:description" content="about yerang.kim" />
+  <meta property="og:image" content="https://user-images.githubusercontent.com/45819975/108961652-ff0d7a00-76ba-11eb-8c36-6297eacda1a6.PNG" />
+
+
+</head>
 
 # 👩‍💻 김예랑 Yerang Kim
 
+
 <div align="center">
 
+<div style="display: inline-block"> 
+    <img class="child" id="profile" src="https://user-images.githubusercontent.com/45819975/108961652-ff0d7a00-76ba-11eb-8c36-6297eacda1a6.PNG" alt="profile" width="170px"> 
+</div>
+<div style="display: inline-block">  
+    
+<table>
+<thead>
+  <tr>
+    <th align="center"></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center"><strong>Github</strong></td>
+    <td><a href="https://github.com/withyeah">https://github.com/withyeah</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Blog</strong></td>
+    <td><a href="https://yerang.kim">https://yerang.kim</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Contact</strong></td>
+    <td><a href="mailto:yerang.dev@gmail.com">yerang.dev@gmail.com</a></td>
+  </tr>
+</tbody>
+</table>
 
-|             |                                 |
-| :---------: | ------------------------------- |
-| **GitHub**  | <https://github.com/withyeah>   |
-|  **Blog**   | <https://yerang.kim>            |
-| **Contact** | <yerang.dev@gmail.com>          |
-
+</div>
 
 </div>
 
