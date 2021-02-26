@@ -53,6 +53,7 @@ lang: 'en'
 
 </div>
 
+<div>
 <br>
 
 ## 🏄‍♀️ Work Experience
@@ -168,3 +169,5 @@ lang: 'en'
 **<U>Python</U>** / **<U>Django</U>** / **<U>iOS</U>** / **<U>Swift</U>**
 
 **<U>AWS</U>** / **<U>Heroku</U>** / **<U>Jira</U>** / **<U>Git</U>**
+
+</div>
