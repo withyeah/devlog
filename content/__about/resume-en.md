@@ -18,7 +18,7 @@ lang: 'en'
 
 # 👩‍💻 김예랑 Yerang Kim
 
-
+<div>
 <div align="center">
 
 <div style="display: inline-block"> 
@@ -170,4 +170,5 @@ lang: 'en'
 
 **<U>AWS</U>** / **<U>Heroku</U>** / **<U>Jira</U>** / **<U>Git</U>**
 
+</div>
 </div>
