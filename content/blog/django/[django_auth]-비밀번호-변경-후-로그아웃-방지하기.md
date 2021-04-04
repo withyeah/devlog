@@ -1,5 +1,5 @@
 ---
-title: "[django_auth] 비밀번호 변경 후 로그아웃 방지하기"
+title: "[Django_Auth] 비밀번호 변경 후 로그아웃 방지하기"
 date: 2021-02-25 17:02:40
 category: django
 thumbnail: { thumbnailSrc }
