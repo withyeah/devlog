@@ -93,3 +93,7 @@ gdalinfo --version
 
 
 [https://medium.com/@shudson250/a-how-to-geodjango-deployed-on-aws-368948453f4d](https://medium.com/@shudson250/a-how-to-geodjango-deployed-on-aws-368948453f4d)
+
+<br>
+
+<br>
