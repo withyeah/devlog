@@ -180,7 +180,7 @@ lang: 'en'
 
 #### Trilingual
     🇬🇧English 
-        - TOEIC : 985
+        - TOEIC : 990
         - OPIC : AL
 
     🇯🇵日本語
